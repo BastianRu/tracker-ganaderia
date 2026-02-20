@@ -3,7 +3,7 @@
 #### De acuerdo con el alcance definido y los ajustes curriculares, el sistema contará con las siguientes funciones:
 
 ### 1. Gestión de Inventario Animal
-	####1. Registro de Animales: 
+	1. Registro de Animales: 
 		Vacas: Captura de datos de raza, peso, fecha de nacimiento, crías y nivel de agresividad // 
 		Toros: Captura de datos de raza, peso, fecha de nacimiento, nivel de agresividad y estado de castración (capado)
 	####2. Actualización animal
