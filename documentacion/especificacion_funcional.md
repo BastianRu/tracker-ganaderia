@@ -1,12 +1,8 @@
 # Especificaciones de las funciones del proyecto 
 
-#### De acuerdo con el alcance definido y los ajustes curriculares, el sistema contará con las siguientes funciones
-
-# Especificaciones de las funciones del proyecto 
-
 #### De acuerdo con el alcance definido y los ajustes curriculares, el sistema contará con las siguientes funciones:
 
-1. Gestión de Inventario Animal
+### 1. Gestión de Inventario Animal
 	1. Registro de Vacas: Captura de datos de raza, peso, fecha de nacimiento, crías y nivel de agresividad
 	2. Control de Producción Láctea: Registro diario de litros de leche por vaca y estado de salubridad mamaria
 	3. Registro de Toros: Captura de datos de raza, peso, fecha de nacimiento, nivel de agresividad y estado de castración (capado)
